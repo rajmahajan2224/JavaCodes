@@ -1,0 +1,2 @@
+# JavaCodes
+Trainning Assingment Codes
